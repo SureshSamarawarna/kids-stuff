@@ -1,0 +1,6 @@
+/out
+/CompareTo
+.idea/
+/target
+
+*.iml
